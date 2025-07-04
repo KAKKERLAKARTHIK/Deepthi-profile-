@@ -474,7 +474,7 @@ const softSkills = [
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <div className="flex items-center justify-center mb-4">
             <Code className="h-8 w-8 text-blue-400 mr-2" />
-            <span className="text-2xl font-bold">Deepthi gangireddy Web Developer</span>
+            <span className="text-2xl font-bold">Deepthi Gangireddy Web Developer</span>
           </div>
           <p className="text-gray-400 mb-4">
             Showcasing excellence in web development and digital innovation
