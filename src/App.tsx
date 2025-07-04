@@ -146,7 +146,7 @@ const softSkills = [
             Web Design & Development
           </h1>
           <p className="text-xl md:text-2xl mb-4 opacity-90">
-            Project Summary | 2023 – 2024
+            Project Summary | 2024 – 2025
           </p>
           <p className="text-lg md:text-xl mb-6 opacity-80">
   Delivering clean, responsive websites and scalable applications with a focus on UI/UX and performance.
@@ -180,7 +180,7 @@ const softSkills = [
               Websites Designed & Developed
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Over the period of 2023 and 2024, I have been actively involved in the complete design and development
+              Over the period of 2024 and 2025, I have been actively involved in the complete design and development
               of several key digital platforms with a focus on usability, responsive design, and seamless functionality.
             </p>
           </div>
@@ -334,7 +334,7 @@ const softSkills = [
           <div className="mb-16">
             <h3 className="text-2xl font-bold text-gray-900 mb-8 flex items-center">
               <CheckCircle className="h-6 w-6 text-green-600 mr-2" />
-              Skills Acquired in 2023–2024
+              Skills Acquired in 2024–2025
             </h3>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {currentSkills.map((skill, index) => (
@@ -451,7 +451,7 @@ const softSkills = [
                 Half-yearly Reports
               </h3>
               <p className="text-gray-600 text-sm">
-                Consolidated performance reports for 2024
+                Consolidated performance reports for 2025
               </p>
             </div>
           </div>
@@ -480,7 +480,7 @@ const softSkills = [
             Showcasing excellence in web development and digital innovation
           </p>
           <p className="text-gray-500 text-sm">
-            © 2024 Web Design & Development. All rights reserved.
+            © 2025 Web Design & Development. All rights reserved.
           </p>
         </div>
       </footer>
