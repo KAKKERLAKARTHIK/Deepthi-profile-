@@ -114,7 +114,7 @@ const softSkills = [
     className="w-8 h-8 rounded-full object-cover border border-gray-300"
   />
   <span className={`text-xl font-bold ${isScrolled ? 'text-black' : 'text-white'} transition-colors`}>
-    Deepthi Gangireddy
+    Deepthi Gangireddy reddy
   </span>
 </div>
             </div>
