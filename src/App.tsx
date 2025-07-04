@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import profileImg from './assets/profile.jpeg';
+import websiteImg from './assets/leaflet.jpg';
 import { 
   Code, 
   Globe, 
@@ -248,7 +249,7 @@ const softSkills = [
               </div>
               <div className="text-center">
                 <img 
-                  src="leaflet.jpg" 
+                  src={websiteImg} 
                   alt="Dashboard Preview" 
                   className="rounded-lg shadow-lg border border-gray-200 mx-auto"
                 />
