@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import profileImg from './assets/profile.jpeg';
 import { 
   Code, 
   Globe, 
@@ -109,7 +110,7 @@ const softSkills = [
               <Code className={`h-8 w-8 ${isScrolled ? 'text-black' : 'text-white'} transition-colors`} />
               <div className="flex items-center space-x-3">
   <img 
-    src="src\assest\profile.jpeg" // Replace with the path to your image (public/profile.jpg)
+    src={profileImg} // Replace with the path to your image (public/profile.jpg)
     alt="Profile"
     className="w-8 h-8 rounded-full object-cover border border-gray-300"
   />
